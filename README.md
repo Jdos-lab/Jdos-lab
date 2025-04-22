@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jdos-lab
 - 👀 I’m interested in code
-- 🌱 I’m currently learning to code
+- 🌱 I’m currently doing code
 - 💞️ I’m looking to collaborate on code
 - 📫 How to reach me : By code
 - ⚡ Fun fact: “Why do programmers prefer dark mode?”
